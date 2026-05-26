@@ -11,6 +11,8 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program1.py` - Introduction to standard outputs and data types.
 * `program2.py` - Practical implementation of string formatting and documentation.
 * `program3.py` — Practical exploration of Python variables and basic data types.
+* `program4.py` - Practical implementation of basic arithmetic operators and understanding float/integer outputs.
+
 
 
 ## 🛠️ Environment

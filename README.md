@@ -12,7 +12,9 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program2.py` - Practical implementation of string formatting and documentation.
 * `program3.py` — Practical exploration of Python variables and basic data types.
 * `program4.py` - Practical implementation of basic arithmetic operators and understanding float/integer outputs.
-*  [program5.py](./program5.py) - Accepting and displaying dynamic user profiles (Name, Age, and GPA).
+* `program5.py` - Accepting and displaying dynamic user profiles (Name, Age, and GPA).
+* `program6.py` - Comprehensive basic calculator supporting addition, subtraction, multiplication, division, and modulus operations.
+* `program7.py` - Geometric area calculator for Triangles, Rectangles, and Circles with customized text outputs.
 
 
 

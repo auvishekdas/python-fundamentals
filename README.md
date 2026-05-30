@@ -15,8 +15,9 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program5.py` - Accepting and displaying dynamic user profiles (Name, Age, and GPA).
 * `program6.py` - Comprehensive basic calculator supporting addition, subtraction, multiplication, division, and modulus operations.
 * `program7.py` - Geometric area calculator for Triangles, Rectangles, and Circles with customized text outputs.
-*   program8.py — Exploration of Python's built-in functions and math module to perform operations like square root, floor, ceiling, and absolute values.
-*   program9.py — Exploration of data types using type(), basic arithmetic operations, f-string formatting, and controlling output spacing with the print() function's 'end' parameter.
+* `program8.py`  — Exploration of Python's built-in functions and math module to perform operations like square root, floor, ceiling, and absolute values.
+*  `program9.py` — Exploration of data types using type(), basic arithmetic operations, f-string formatting, and controlling output spacing with the print() function's 'end' parameter.
+* `program10.py` - Practical implementation of logical and relational operators (Comparison operations).
 
 
 

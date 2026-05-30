@@ -1,0 +1,10 @@
+
+print(25<35)
+print(15>48)
+print(14<=18)
+print(16>=20)
+print(25==29)
+print(45==45)
+print(50!=50)
+print(47!=69)
+print("Auvishek"=="Auvishek")

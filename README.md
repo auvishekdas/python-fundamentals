@@ -18,7 +18,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program8.py`  — Exploration of Python's built-in functions and math module to perform operations like square root, floor, ceiling, and absolute values.
 *  `program9.py` — Exploration of data types using type(), basic arithmetic operations, f-string formatting, and controlling output spacing with the print() function's 'end' parameter.
 * `program10.py` - Practical implementation of logical and relational operators (Comparison operations).
-
+* `program11.py` — Practical implementation of conditional logic (Pass/Fail check, finding the largest number, and Even/Odd detection).
 
 
 

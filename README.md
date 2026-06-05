@@ -24,6 +24,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program14.py` - Practical implementation of shorthand conditional expressions (Ternary Operator) to find the maximum of two numbers.
 * `program15.py` - Implementation of logical `and` to determine the maximum of three numbers, and multiple `or` conditions for vowel and consonant classification.
 * `program16.py` - Implementation of a grading system using chained comparison operators to evaluate numeric marks.
+* `program17.py` - Practical exploration of 'while' loops, including number sequences, text repetition, and filtering even/odd numbers.
 
 
 ## 🛠️ Environment

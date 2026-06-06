@@ -9,7 +9,7 @@ while i <= n:
 print (sum)
 
 
-#3 + 6 +9 ....... + n
+#3 + 6 + 9 ....... + n
 n = int (input("Enter the last term : "))
 sum = 0
 i = 3

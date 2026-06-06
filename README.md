@@ -25,6 +25,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program15.py` - Implementation of logical `and` to determine the maximum of three numbers, and multiple `or` conditions for vowel and consonant classification.
 * `program16.py` - Implementation of a grading system using chained comparison operators to evaluate numeric marks.
 * `program17.py` - Practical exploration of 'while' loops, including number sequences, text repetition, and filtering even/odd numbers.
+* `program18.py` - Practical application of 'while' loops to calculate the sum of consecutive natural numbers and custom arithmetic progression series (e.g., 3 + 6 + 9 + ... + n).
 
 
 ## 🛠️ Environment

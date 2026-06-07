@@ -11,10 +11,10 @@ print("End")
 
 i = 1
 while i <= 30:
+    i = i + 1
     if i == 28:
         continue
     print(i)
-    i = i + 1
 print("End")    
     
 

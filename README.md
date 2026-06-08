@@ -28,6 +28,8 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program18.py` - Practical application of 'while' loops to calculate the sum of consecutive natural numbers and custom arithmetic progression series (e.g., 3 + 6 + 9 + ... + n).
 * `program19.py` - Practical implementation of loop control statements (break and continue) to prematurely terminate or skip iterations inside a 'while' loop.
 * `program20.py` - Exploration of basic Python list operations, including positive/negative indexing, slicing, concatenation, repetition, and membership testing (in/not in).
+* `program21.py` - Comprehensive exploration of Python list built-in manipulation methods, including element adding, index searching, and list mutation techniques.
+
 
 ## 🛠️ Environment
 * **IDE:** Thonny

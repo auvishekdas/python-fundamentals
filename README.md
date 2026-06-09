@@ -29,6 +29,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program19.py` - Practical implementation of loop control statements (break and continue) to prematurely terminate or skip iterations inside a 'while' loop.
 * `program20.py` - Exploration of basic Python list operations, including positive/negative indexing, slicing, concatenation, repetition, and membership testing (in/not in).
 * `program21.py` - Comprehensive exploration of Python list built-in manipulation methods, including element adding, index searching, and list mutation techniques.
+* `program22.py` - Advanced sequence generation combining Python's built-in `range()` function with list casting, covering single/dual boundaries and custom step-based numerical intervals.
 
 
 ## 🛠️ Environment

@@ -30,6 +30,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program20.py` - Exploration of basic Python list operations, including positive/negative indexing, slicing, concatenation, repetition, and membership testing (in/not in).
 * `program21.py` - Comprehensive exploration of Python list built-in manipulation methods, including element adding, index searching, and list mutation techniques.
 * `program22.py` - Advanced sequence generation combining Python's built-in `range()` function with list casting, covering single/dual boundaries and custom step-based numerical intervals.
+* `program23.py` - Implementation of a `for` loop to calculate the cumulative sum of a numerical list, incorporating clean naming conventions to avoid variable shadowing.
 
 
 ## 🛠️ Environment

@@ -31,6 +31,8 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program21.py` - Comprehensive exploration of Python list built-in manipulation methods, including element adding, index searching, and list mutation techniques.
 * `program22.py` - Advanced sequence generation combining Python's built-in `range()` function with list casting, covering single/dual boundaries and custom step-based numerical intervals.
 * `program23.py` - Implementation of a `for` loop to calculate the cumulative sum of a numerical list, incorporating clean naming conventions to avoid variable shadowing.
+* `​program24.py` - Implementation of for loops to calculate the cumulative sum of natural numbers, even numbers, squares, and the cumulative product (factorial) of a numerical sequence based on user input.
+* `​program25.py` - Practical exploration of pattern printing using string multiplication within for loops to generate right-angled triangles and odd-number based geometric sequences. 
 
 
 ## 🛠️ Environment

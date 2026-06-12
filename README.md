@@ -33,6 +33,8 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program23.py` - Implementation of a `for` loop to calculate the cumulative sum of a numerical list, incorporating clean naming conventions to avoid variable shadowing.
 * `​program24.py` - Implementation of for loops to calculate the cumulative sum of natural numbers, even numbers, squares, and the cumulative product (factorial) of a numerical sequence based on user input.
 * `​program25.py` - Practical exploration of pattern printing using string multiplication within for loops to generate right-angled triangles and odd-number based geometric sequences. 
+* `program26.py` - Built an interactive **Guessing Game** using Python's `random` module. Integrated a `for` loop to allow the user up to 10 control rounds, implementing conditional control flows (`if-else`) to dynamically evaluate user guesses against system-generated random integers.
+* `program27.py` - Implemented two core string manipulation programs. The first processes a space-separated string of numbers, tokens it via `.split()`, and calculates the sum. The second parses user text using a `for` loop and conditional structures (`if-elif`) to dynamically count total letters, digits, and words.
 
 
 ## 🛠️ Environment

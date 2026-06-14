@@ -37,7 +37,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program27.py` - Implemented two core string manipulation programs. The first processes a space-separated string of numbers, tokens it via `.split()`, and calculates the sum. The second parses user text using a `for` loop and conditional structures (`if-elif`) to dynamically count total letters, digits, and words.
 * `program28.py` - Exploration of multi-dimensional arrays (2D Lists/Matrices) in Python. Covers multidimensional indexing, runtime value modification, and nested loops to systematically iterate through rows and columns.
 * `program29.py` - Implementation of Python Dictionary data structures. Demonstrates standard key-based value retrieval using brackets `[]` alongside defensive programming techniques via the `.get()` method to handle invalid keys gracefully with default fallback messages.
-
+* `program30.py` - Exploring Python Tuple data structures, including index accessing, nested tuples containing mixed data types (int, float, str), and tuple slicing techniques to extract sub-sequences dynamically.
 
 ## 🛠️ Environment
 * **IDE:** Thonny

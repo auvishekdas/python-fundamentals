@@ -38,6 +38,9 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program28.py` - Exploration of multi-dimensional arrays (2D Lists/Matrices) in Python. Covers multidimensional indexing, runtime value modification, and nested loops to systematically iterate through rows and columns.
 * `program29.py` - Implementation of Python Dictionary data structures. Demonstrates standard key-based value retrieval using brackets `[]` alongside defensive programming techniques via the `.get()` method to handle invalid keys gracefully with default fallback messages.
 * `program30.py` - Exploring Python Tuple data structures, including index accessing, nested tuples containing mixed data types (int, float, str), and tuple slicing techniques to extract sub-sequences dynamically.
+* `program31.py` - Practical implementation of Python Set data structures. Demonstrates element modification via `.add()` and `.remove()`, membership testing (`in`/`not in`), and performing set-theory operations including Union (`|`), Difference (`-`), and Intersection (`&`) with explicit handling for empty sets (`set()`).
+* `program32.py` - Built a Stack data structure using Python Lists following the LIFO (Last In, First Out) principle. Utilizes `.append()` for pushing elements, `.pop()` for removal, dynamic top-element tracking via negative indexing `[-1]`, and defensive programming to catch empty stack states.
+* `program33.py` - Implemented a Queue data structure based on the FIFO (First In, First Out) principle. Optimizes performance by importing `deque` from Python's built-in `collections` module, showcasing high-efficiency `.popleft()` operations and robust validation for empty queue control flows.
 
 ## 🛠️ Environment
 * **IDE:** Thonny

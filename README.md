@@ -41,6 +41,8 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program31.py` - Practical implementation of Python Set data structures. Demonstrates element modification via `.add()` and `.remove()`, membership testing (`in`/`not in`), and performing set-theory operations including Union (`|`), Difference (`-`), and Intersection (`&`) with explicit handling for empty sets (`set()`).
 * `program32.py` - Built a Stack data structure using Python Lists following the LIFO (Last In, First Out) principle. Utilizes `.append()` for pushing elements, `.pop()` for removal, dynamic top-element tracking via negative indexing `[-1]`, and defensive programming to catch empty stack states.
 * `program33.py` - Implemented a Queue data structure based on the FIFO (First In, First Out) principle. Optimizes performance by importing `deque` from Python's built-in `collections` module, showcasing high-efficiency `.popleft()` operations and robust validation for empty queue control flows.
+* `program34.py` - Practical implementation of Python User-Defined Functions. Demonstrates creating functions with multiple parameters and arguments for basic arithmetic operations (addition, subtraction, multiplication, division), alongside implementing a no-argument function to print static text blocks.
+* `program35.py` - Exploration of Python functions utilizing the `return` statement to pass values back to the caller. Features conditional control flow (`if-else`) within functions to evaluate inputs and dynamically determine the maximum value between integers.
 
 ## 🛠️ Environment
 * **IDE:** Thonny

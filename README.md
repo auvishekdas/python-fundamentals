@@ -43,7 +43,9 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program33.py` - Implemented a Queue data structure based on the FIFO (First In, First Out) principle. Optimizes performance by importing `deque` from Python's built-in `collections` module, showcasing high-efficiency `.popleft()` operations and robust validation for empty queue control flows.
 * `program34.py` - Practical implementation of Python User-Defined Functions. Demonstrates creating functions with multiple parameters and arguments for basic arithmetic operations (addition, subtraction, multiplication, division), alongside implementing a no-argument function to print static text blocks.
 * `program35.py` - Exploration of Python functions utilizing the `return` statement to pass values back to the caller. Features conditional control flow (`if-else`) within functions to evaluate inputs and dynamically determine the maximum value between integers.
-
+* `program36.py` - Mastered Arbitrary Arguments (*xargs) to handle dynamic positional data packaging into tuples. Implemented indexed data retrieval and a flexible looping mechanism to compute the sum of variable numeric inputs.
+* `​program37.py` - Explored Keyword Arguments (**xxargs) for packaging dynamic named parameters into Python Dictionaries. Developed logic for key-value pair extraction to retrieve specific structured information efficiently.
+  
 ## 🛠️ Environment
 * **IDE:** Thonny
 * **Language:** Python 3

@@ -45,7 +45,9 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program35.py` - Exploration of Python functions utilizing the `return` statement to pass values back to the caller. Features conditional control flow (`if-else`) within functions to evaluate inputs and dynamically determine the maximum value between integers.
 * `program36.py` - Mastered Arbitrary Arguments (*xargs) to handle dynamic positional data packaging into tuples. Implemented indexed data retrieval and a flexible looping mechanism to compute the sum of variable numeric inputs.
 * `​program37.py` - Explored Keyword Arguments (**xxargs) for packaging dynamic named parameters into Python Dictionaries. Developed logic for key-value pair extraction to retrieve specific structured information efficiently.
-  
+* `​program38.py` - Mastered runtime debugging and implementation of Arbitrary Arguments using *digits to handle dynamic positional data packaging into tuples.
+​* `program39.py` - Explored Advanced Python concepts by implementing Lambda (Anonymous) Functions with single and multiple arguments to optimize code efficiency.
+
 ## 🛠️ Environment
 * **IDE:** Thonny
 * **Language:** Python 3

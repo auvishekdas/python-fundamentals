@@ -47,6 +47,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `​program37.py` - Explored Keyword Arguments (**xxargs) for packaging dynamic named parameters into Python Dictionaries. Developed logic for key-value pair extraction to retrieve specific structured information efficiently.
 * `program38.py` - Mastered runtime debugging and implementation of Arbitrary Arguments using *digits to handle dynamic positional data packaging into tuples.
 * `program39.py` - Explored Advanced Python concepts by implementing Lambda (Anonymous) Functions with single and multiple arguments to optimize code efficiency.
+* `program40.py` - Implemented Python's built-in `map()` and `filter()` functions along with Lambda expressions to calculate numerical cubes and filter even numbers efficiently.
 
 
 ## 🛠️ Environment

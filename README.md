@@ -49,6 +49,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program39.py` - Explored Advanced Python concepts by implementing Lambda (Anonymous) Functions with single and multiple arguments to optimize code efficiency.
 * `program40.py` - Implemented Python's built-in `map()` and `filter()` functions along with Lambda expressions to calculate numerical cubes and filter even numbers efficiently.
 * `​program41.py` — Mastered List Comprehension in Python, implementing clean filtering with if conditions and mathematical cube transformations.
+* `​program42.py` — Explored Python's built-in zip() function to aggregate elements from multiple iterables (lists and strings) into parallel tuples for efficient data restructuring.
 
 ## 🛠️ Environment
 * **IDE:** Thonny

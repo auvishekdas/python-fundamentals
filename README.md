@@ -51,6 +51,8 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `​program41.py` — Mastered List Comprehension in Python, implementing clean filtering with if conditions and mathematical cube transformations.
 * `​program42.py` — Explored Python's built-in zip() function to aggregate elements from multiple iterables (lists and strings) into parallel tuples for efficient data restructuring.
 * `​program43.py` — Implemented Factorial calculation using Recursion in Python. Mastered recursive logic flow, base case design, and efficient handling of algorithmic mathematical operations.
+* `program44.py` — Mastered File Handling operations in Python using various read mechanisms like `.read()`, `.readlines()`, indexing, and looping constructs to manipulate external text archives efficiently.
+
   
 ## 🛠️ Environment
 * **IDE:** Thonny

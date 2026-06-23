@@ -1,0 +1,4 @@
+Name: Auvishek Das
+Learning: Python Programming
+IDE: Thonny App
+Date: 23 June, 2026

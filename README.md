@@ -53,6 +53,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `​program43.py` — Implemented Factorial calculation using Recursion in Python. Mastered recursive logic flow, base case design, and efficient handling of algorithmic mathematical operations.
 * `program44.py` — Mastered File Handling operations in Python using various read mechanisms like `.read()`, `.readlines()`, indexing, and looping constructs to manipulate external text archives efficiently.
 * `program45.py` — Experimented with advanced File Handling techniques in Python, focusing on the architectural differences between Append (`"a"`) and Write (`"w"`) modes to manipulate external text files dynamically.
+* `program46.py` — Mastered Exception Handling in Python using `try-except` blocks to handle runtime anomalies, specifically trapping `ZeroDivisionError` and experimenting with `SyntaxError` in the error handling flow.
 
   
 ## 🛠️ Environment

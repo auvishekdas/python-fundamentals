@@ -54,6 +54,8 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program44.py` — Mastered File Handling operations in Python using various read mechanisms like `.read()`, `.readlines()`, indexing, and looping constructs to manipulate external text archives efficiently.
 * `program45.py` — Experimented with advanced File Handling techniques in Python, focusing on the architectural differences between Append (`"a"`) and Write (`"w"`) modes to manipulate external text files dynamically.
 * `program46.py` — Mastered Exception Handling in Python using `try-except` blocks to handle runtime anomalies, specifically trapping `ZeroDivisionError` and experimenting with `SyntaxError` in the error handling flow.
+* `​program47.py` — Deepened understanding of Exception Handling in Python by implementing a robust try-except-finally flow to gracefully capture and process multiple input validation errors like ValueError and ZeroDivisionError.
+* `​program48.py` — Mastered custom error generation using the raise keyword to enforce business logic boundaries inside functions and catch user-defined validation anomalies.
 
   
 ## 🛠️ Environment

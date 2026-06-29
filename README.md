@@ -58,6 +58,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `​program48.py` — Mastered custom error generation using the raise keyword to enforce business logic boundaries inside functions and catch user-defined validation anomalies.
 * `program49.py` — Mastered efficient variable swapping using Pythonic tuple unpacking mechanics, eliminating the need for temporary storage variables to write cleaner, optimized code.
 * `program50.py` — Mastered Class and Object mechanics in Object-Oriented Programming (OOP) by designing a custom blueprint and dynamically creating multiple instances (`Hasan`, `Habib`) to manipulate unique attributes efficiently.
+* `program51.py` — Deepened understanding of Object-Oriented Programming (OOP) by introducing custom class methods to encapsulate object behaviors, set dynamic instance attributes using `self`, and display processed results efficiently.
 
   
 ## 🛠️ Environment

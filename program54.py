@@ -18,4 +18,5 @@ l.powerpoint()
 a = Apple()
 a.camera()
 a.powerpoint()
+
 print(issubclass(Doyel,Laptop))

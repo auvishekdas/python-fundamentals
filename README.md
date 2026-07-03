@@ -62,6 +62,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program52.py` — Mastered the implementation of the constructor (`__init__`) method in Object-Oriented Programming (OOP) to initialize instance attributes dynamically upon object creation and efficiently display data using custom methods.
 * `program53.py` — Applied Object-Oriented Programming (OOP) principles to solve geometric mathematical models by constructing a custom class to dynamically compute and return the area of triangles based on runtime user inputs.
 * `program54.py` — Explored the core concepts of Inheritance in Object-Oriented Programming (OOP) by creating parent and child classes, applying the `pass` keyword for clean class skeletons, and verifying relationships dynamically using the built-in `issubclass()` method.
+* ​`program55.py` — Advanced the understanding of Object-Oriented Programming (OOP) by implementing Method Overriding and the super() function within class structures. Effectively managed constructor behaviors between parent and child classes to dynamically access overridden attributes and orchestrate seamless object instantiation.
 
   
 ## 🛠️ Environment

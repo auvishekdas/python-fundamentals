@@ -63,7 +63,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program53.py` — Applied Object-Oriented Programming (OOP) principles to solve geometric mathematical models by constructing a custom class to dynamically compute and return the area of triangles based on runtime user inputs.
 * `program54.py` — Explored the core concepts of Inheritance in Object-Oriented Programming (OOP) by creating parent and child classes, applying the `pass` keyword for clean class skeletons, and verifying relationships dynamically using the built-in `issubclass()` method.
 * ​`program55.py` — Advanced the understanding of Object-Oriented Programming (OOP) by implementing Method Overriding and the super() function within class structures. Effectively managed constructor behaviors between parent and child classes to dynamically access overridden attributes and orchestrate seamless object instantiation.
-
+* `program56.py` — Applied **Method Overriding** and **Polymorphism** by creating `Triangle` and `Rectangle` subclasses that inherit from a base `Shape` class to calculate geometric areas dynamically.
   
 ## 🛠️ Environment
 * **IDE:** Thonny

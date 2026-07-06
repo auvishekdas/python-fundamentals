@@ -65,6 +65,8 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * ​`program55.py` — Advanced the understanding of Object-Oriented Programming (OOP) by implementing Method Overriding and the super() function within class structures. Effectively managed constructor behaviors between parent and child classes to dynamically access overridden attributes and orchestrate seamless object instantiation.
 * `program56.py` — Applied **Method Overriding** and **Polymorphism** by creating `Triangle` and `Rectangle` subclasses that inherit from a base `Shape` class to calculate geometric areas dynamically.
 * `program57.py` _ Applied Multilevel Inheritance and the super() function in Object-Oriented Programming (OOP) by creating layered class structures to access grandparent and parent methods seamlessly.
+* `program58.py` — Implemented **Abstraction** in Object-Oriented Programming (OOP) by defining an abstract base class `Shape` using the `abc` module and `@abstractmethod` decorator to enforce a strict geometric calculation blueprint for `Triangle` and `Rectangle` subclasses.
+
   
 ## 🛠️ Environment
 * **IDE:** Thonny

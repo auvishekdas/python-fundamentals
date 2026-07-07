@@ -66,6 +66,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program56.py` — Applied **Method Overriding** and **Polymorphism** by creating `Triangle` and `Rectangle` subclasses that inherit from a base `Shape` class to calculate geometric areas dynamically.
 * `program57.py` _ Applied Multilevel Inheritance and the super() function in Object-Oriented Programming (OOP) by creating layered class structures to access grandparent and parent methods seamlessly.
 * `program58.py` — Implemented **Abstraction** in Object-Oriented Programming (OOP) by defining an abstract base class `Shape` using the `abc` module and `@abstractmethod` decorator to enforce a strict geometric calculation blueprint for `Triangle` and `Rectangle` subclasses.
+* `program59.py` — Explored the core concepts of **Polymorphism** by utilizing the built-in `len()` function on different data types and implementing **Method Overloading** in a custom `add()` function using default arguments to handle multiple parameters dynamically.
 
   
 ## 🛠️ Environment

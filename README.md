@@ -70,6 +70,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `​program60.py` — Mastered Python Magic Methods (Dunder Methods) by implementing custom object comparison (__eq__) and custom string representation (__str__) within a class structure to control object behavior dynamically.
 * ​`program61.py` — Mastered creating and importing custom Python modules by designing a reusable geometry.py module to calculate shapes dynamically.
 * `​program62.py` — Mastered Regular Expressions (Regex) by implementing pattern matching techniques using built-in re.match(), re.search(), and re.findall() functions to handle dynamic string validation efficiently.
+* `​program63.py` — Explored advanced Regular Expression (Regex) techniques using the re.search() function to extract specific pattern locations, utilizing match object methods like start(), end(), and span() for precise string analysis.
   
 ## 🛠️ Environment
 * **IDE:** Thonny

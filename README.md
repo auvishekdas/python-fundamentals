@@ -73,6 +73,8 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `​program63.py` — Explored advanced Regular Expression (Regex) techniques using the re.search() function to extract specific pattern locations, utilizing match object methods like start(), end(), and span() for precise string analysis.
 * `program64.py` — Practiced string pattern replacement using Python's built-in `re.sub()` function.
 * `program65.py` — Mastered basic and advanced Regex metacharacters (*, +, ?, {}) for custom string validation using re.match().
+* `program66.py` — Practiced Regex character classes (`[...]`) to match vowels, lowercase/uppercase letters, digits, and sequential combinations using `re.match()`.
+
 
   
 ## 🛠️ Environment

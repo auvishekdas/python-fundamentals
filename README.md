@@ -74,7 +74,7 @@ This repository contains my daily practice files and hands-on exercises as I mas
 * `program64.py` — Practiced string pattern replacement using Python's built-in `re.sub()` function.
 * `program65.py` — Mastered basic and advanced Regex metacharacters (*, +, ?, {}) for custom string validation using re.match().
 * `program66.py` — Practiced Regex character classes (`[...]`) to match vowels, lowercase/uppercase letters, digits, and sequential combinations using `re.match()`.
-
+* `​program67_coding_standards.py` — Mastered fundamental Python coding standards and best practices, including naming consistency (snake_case), avoiding over-commenting by writing clean code, and utilizing proper whitespace for enhanced readability.
 
   
 ## 🛠️ Environment
